@@ -8,8 +8,8 @@
     <version>1.0.0</version>
     <packaging>pom</packaging>
     <modules>
-        <module>v1</module>
-        <module>v2</module>
+        <module>a</module>
+        <module>b</module>
     </modules>
         <build>
         <plugins>
