@@ -1,6 +1,6 @@
 package com.example;
 
-public interface AInterface
+public interface TestingInterface
 {
     void method();
 }

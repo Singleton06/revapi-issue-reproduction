@@ -1,6 +1,6 @@
 package com.example;
 
-public class AClass
+public class TestingClass
 {
 	private void doNothing() {}
 }
